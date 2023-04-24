@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137309227910",
+    "project_id": "anfire-73f5c",
+    "storage_bucket": "anfire-73f5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137309227910:android:21a3d65f0ba135f70a7a07",
+        "android_client_info": {
+          "package_name": "com.example.anfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137309227910-kst93arip5g5eeqo2ckkjcaf7qupfots.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOqWN22n_F4xgH6XnB3GLuqZK6xKrlgjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137309227910-kst93arip5g5eeqo2ckkjcaf7qupfots.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
